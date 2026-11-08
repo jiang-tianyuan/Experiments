@@ -178,7 +178,7 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 </center>
 
 #### Other (optional) points to mention
-
+- Some younger audience might find it difficult to understand the chemistry behind this experiment, try and talk to them about shelly creatures which might engage better with them.
 - Some people may mention coral bleaching: this is not thought to be directly related to ocean acidification (the impact of acidic seawater on corals is still being studied) but is due to the higher temperatures due to rising CO₂ and climate change. The photoendosymbiotic zooxanthellae that live in coral are very sensitive and only live in a specific temperature range.
 - This experiment focusses on ‘inorganic carbon’ (i.e. carbon in the +4 oxidation state) but we can also remove CO₂ from the atmosphere by the ‘organic carbon’ (oxidation state = -4) side of the carbon cycle, through photosynthesis and burial. Instead of carbonate rocks, organic carbon is geologically stored as fossil fuels – the much more rapid than usual release of this reservoir is the primary reason for the current rise in CO₂. Some people are considering ‘fertilising’ the oceans to speed up this sink, but this may have all sorts of unintented ecological consequences.
 - Likewise, there is a lot of research being done into adding bases to raise the pH of the ocean so it will hold more CO₂ – ‘Ocean Alkalinity Enhancement’ (OAE). This might also cause trouble... Ironically, geologists also use the acronym ‘OAE’ for ‘Oceanic Anoxic Event’, which is what could happen if OAE is not managed properly!
@@ -236,7 +236,7 @@ The vinegar, CaCl₂ and NaHCO₃ solutions can be saved if there are some left.
 
 ### **Hazard**: Vinegar, Bicarbonate, CaCl₂
 
-**Description**: Vinegar (~ 0.8 M acetic acid), sodium bicarbonate solution (0.2 M) and calcium chloride solution (0.3 M) are irritant to eyes, and possible allergens
+**Description**: Vinegar (~ 0.8 M acetic acid, **gluten** if distilled vinegar is used), sodium bicarbonate solution (0.2 M) and calcium chloride solution (0.3 M) are irritant to eyes, and possible allergens
 
 **Affected People**: All
 
@@ -312,6 +312,22 @@ Call first aider in case of injury.
 
 <br/>
 
+### **Hazard**: Sharp Shells
+
+**Description**: Some shells being presented have sharper edges (some gastropods, generally not a problem for bivalves), this could cause harm if handled inappropriately.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
+
+**Mitigation**: Do not let young children handle sharp shells themselevs. 
+
+Call first aider in case of injury.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Medium) 
+
+<br/>
+
 ### **CBS Only Hazard**: Eggs
 
 **Description**: Bouncy eggs are easy to break, causing a big mess!
@@ -334,5 +350,7 @@ Call first aider in case of injury.
 **Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2026-11-08 - Tianyuan Jiang (tj376@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
