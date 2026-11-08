@@ -2,7 +2,7 @@
 
 **What happens to CO₂ in Earth's oceans?** - Make your own carbonate minerals, and discover the effects of ocean acidification using a SodaStream.
 
-Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 2025-11-29 by Jessica Trevelyan (jet81@cam.ac.uk) 
+Last initially checked on 2026-11-08 by Tianyuan Jiang (tj376@cam.ac.uk)  
 **Frequency of use:** N/A
 
 ## Tags
