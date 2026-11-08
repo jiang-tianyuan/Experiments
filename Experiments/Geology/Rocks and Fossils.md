@@ -2,7 +2,7 @@
 
 **A box of rocks and fossils** - Find out about explosive volcanoes, shiny crystals, and the exotic animals that lived millions of years ago.
 
-Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 29-11-2025 by Jessica Trevelyan (jet81@cam.ac.uk). 
+Last initially checked on 2026-11-08 by Tianyuan Jiang (tj376@cam.ac.uk). 
 
 ## Tags
 
@@ -119,12 +119,14 @@ Rows 5 and 6 – Misc.
 - C6 – Ammonites
 - D6 – Goniatites
 
+- some items listed here might be missing from the box
+  
 <br/>
 
 ## Experiment Explanation
 
 **Note:**
-If you’re confident with demonstrating and know your geology give this kit a go through, and please write down the bits that work and don’t work, as well as suggestions for more samples to get. (A sheet of paper that stays in the box would be great!)
+If you’re confident with demonstrating and know your geology give this kit a go through, and please write down the bits that work and don’t work, as well as suggestions for more samples to get. Reporting which speimens are listed but cannot be found would also be helpful! (A sheet of paper that stays in the box would be great!)
 
 ### Ways to do this demo
 
@@ -217,7 +219,7 @@ Amber is fossilised tree resin (not sap apparently, although I’m not entirely 
 
 **Gastropod**
 
-Gastropods are another group of animals which have lived in various different situations. They can be freshwater, marine, or even live on land (e.g. the snail), and have been around since the Cambrian. They can be recognised by their coiled shell. I often just use the words “sea snail” here, since I’m not sure the word “gastropod” will add much, but it’s up to you.
+Gastropods are another group of animals which have lived in various different situations. They can be freshwater, marine, or even live on land (e.g. the snail), and have been around since the Cambrian. They can be recognised by their spiral / coiled shell. I often just use the words “sea snail” here, since I’m not sure the word “gastropod” will add much, but it’s up to you. It is potentially helpful for kids to realise gastropods exist in marine, freshwater and terrestrial forms.
 
 **Shark Teeth**
 
@@ -239,7 +241,7 @@ These are another type of ammonoid (the subclass to which ammonites belong) whic
 
 These are an extinct class of arthropods which lived during the Paleozoic, though they declined towards the end of it. Trilobites were some of the first animals to evolve hard parts (which is why they are also some of the earliest fossils that are regularly well-preserved) and eyes. Their hard shell meant that they could roll into a ball to protect themselves (as I think this specimen is doing). Their eyes were made from calcite crystals which had to be orientated correctly to avoid a double-image (you can demonstrate the double-image with the calcite crystal in the minerals box). Some had their eyes on stalks, while others were blind. Most moved over the sea-bed, but some swam, and they could be predators, suspension feeders or scavengers. The name trilobite refers to their three “lobes” – one that resembles a spine down the middle of the trilobite, and one on each side of it. I usually liken trilobites to woodlice to help children to imagine them.
 
-**Triceratops Bone**
+**Triceratops Bone** (possibly missing)
 
 Whole fossilised bones, and especially whole skeletons, from land-dwelling animals are pretty rare, as they will only be buried and fossilised in an area where deposition is taking place, such as the sea or a delta; much of the land is being eroded. If the animal does not die in a place where its bones are quickly buried, the bones may be separated from each other, bashed around, or even fragmented before finally being buried. This is probably what happened to this piece of triceratops bone. The small holes are most likely where the marrow used to be.
 Triceratops was an herbivorous dinosaur with three horns on its head (two above its eyes and one on its nose), a large bony frill, and a beak-like mouth. It walked on four legs and grew up to 9 metres long and 3 metres high. It belongs to a suborder of dinosaurs called ceratopsians, which had similar features, but different numbers of horns. There is discussion as to whether the horns were primarily for defence against large predators such as Tyrannosaurus Rex, or for fighting amongst each other for mates. Triceratops lived at the very end of the Cretaceous, which provides an opportunity to talk about the mass extinction at the end of this period which wiped out the dinosaurs (one of several that have been identified throughout the Earth’s history). A lot of children will know the most popular theory- that the Earth’s collision with a huge meteorite caused the extinction. Far fewer may know about the less popular hypothesis, that an enormous set of volcanic eruptions covering half of India in lava flows known as the Deccan Traps in less than a million years contributed to this extinction event, or may even have been the primary cause. Both of these events happened, but there is debate as to which was the main cause of the mass extinction.
@@ -350,7 +352,7 @@ The colours in this crackle quartz are man-made. They are added by heating up qu
 
 **Red Jasper**
 
-Jasper is an impure form of silica (SiO₂), quite similar to chert (see Flint/Chert under sedimentary rocks). Its colour varies according to the impurities, and the red colour in this jasper is probably due to ferric iron.
+Jasper is an impure form of silica (SiO₂), quite similar to chert (see Flint/Chert under sedimentary rocks). Its colour varies according to the impurities, and the red colour in this jasper is probably due to ferric iron. These can be found in the geological record rather frequently as iron impurities are said to be 'everywhere' (N. S. Davies, 2026, on Suffolk trip).
 
 **Mookaite**
 
@@ -361,6 +363,7 @@ Mookaite is an impure form of silica, and in fact a kind of chert (see Flint/Che
 **Pyrite**
 
 Pyrite is also known as Fool’s Gold due to its similarity in physical appearance to gold. It is found in quartz veins, coal beds, sedimentary and metamorphic rocks, as well as a replacement mineral in some fossils. It is associated with other oxides and sulphides, and often forms during diagenesis- low pressure and temperature alteration to deposited sediments during early compaction which may result in recrystallisation and precipitation of minerals. Its chemical formula is FeS₂. Note the cubic crystal shape.
+These form rather easily due to sulfur reducing bacteria in soil, which supplies much of the sulfide on this planet. Sulfide readily reacts with ferrous iron to give pyrite.
 
 **Red Aragonite**
 
@@ -403,6 +406,8 @@ I like to ask people to describe each rock: there's a lot that you can deduce by
 Basalt is an extrusive igneous rock. This means that it formed from the cooling of lava which flowed from a volcano. It has cooled quite quickly to allow only small crystals to grow (you can make out some shiny surfaces under the magnifying glass, although the bigger crystals may have started to grow in the magma chamber – most of the crystals will be too small to see). The main difference between basalt, andesite and rhyolite is composition. Basalt is more iron and magnesium-rich and less silica-rich than rhyolite; andesite is intermediate between the two. When magma cools in a magma chamber, iron-rich and silica-poor minerals crystallise first and fall to the bottom of the magma chamber. This means that the remaining magma becomes more silica-rich, iron-poor, magnesium-poor, and therefore lighter. The system becomes more complicated if new (SiO₂-rich, Fe-poor) magma is injected into the magma chamber, or if crustal material from the edges of the magma chamber (SiO₂-poor, Fe-rich) is assimilated into the magma. Thus in general magma moves slowly from basaltic to andesitic to rhyolitic composition until it completely solidifies, is erupted, or is mixed with new material. Magma of basaltic, andesitic or rhyolitic composition may erupt as lava.
 
 Most of our basalt samples contain gas bubbles (vesicles), which have come out of solution as the pressure drops, near the surface. In some cases, the bubbles are filled with white minerals that formed later as mineral-laden water flowed through the solidified rock - the mineral-filled vesicles are known as amygdales.
+
+There exists lots of basalt in the north of Britain and Ireland, due to recent events related to the Icelandic plume (more specifically, the proto-Icelandic plume). This includes the famous locality known as Giants' Causeway which showcase basalt in their impressive hexagonal form.
 
 **Andesite**
 
@@ -565,7 +570,8 @@ This experiment has no explicit PLUS explanation. It's more a case of how much o
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High) 
 
-**Mitigation**: Ensure that small samples are not in the reach of small children. Keep an eye on children with samples and make sure they don't put things in their mouths. Would advise keeping the very small gemstones in their plastic bag.
+**Mitigation**: Ensure that small samples are not in the reach of small children. Keep an eye on children with samples and make sure they don't put things in their mouths. For kids of very young age, do not let them handle as they might be able to put pieces in their mouths faster than you think. Would advise keeping the very small gemstones in their plastic bag.
+
 Call a first-aider in event of ingestion.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium) 
@@ -581,6 +587,7 @@ Call a first-aider in event of ingestion.
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Keep fragile samples in clear plastic bags for protection and to prevent dust if breakage occurs. If any samples do break, carefully remove the broken bits from display to avoid people cutting themselves.
+
 In case of injury call first-aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low) 
@@ -660,4 +667,4 @@ If a child is distressed, put away the sample, assure the child that it's just a
 
 **Check 1**: 2025-11-23 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-
+**Check 1**: 2026-11-08 - Tianyuan Jiang (tj376@cam.ac.uk)
